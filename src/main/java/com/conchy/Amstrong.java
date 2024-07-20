@@ -5,9 +5,9 @@ public class Amstrong {
     public static void main(String[] args) {
         int number = 371;
         if (isAmstrong(number)) {
-            System.out.println(number + " es un número de Amstrong");
+            System.out.println(number + " it is an Amstrong number");
         } else {
-            System.out.println(number + " no es un número de Amstrong");
+            System.out.println(number + " it is not an Amstrong number");
         }
     }
 
