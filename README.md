@@ -11,3 +11,5 @@ Por ejemplo, el número 371 es un número que cumple dicha característica ya qu
 
 ## Diagrama de clases
 
+![image](https://github.com/user-attachments/assets/222c3dcc-a026-4dd0-b0ee-c257bf664d61)
+
