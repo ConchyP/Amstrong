@@ -1,15 +1,7 @@
 package com.conchy;
 
-public class Amstrong {
+public class NumberAmstrong {
     
-    public static void main(String[] args) {
-        int number = 371;
-        if (isAmstrong(number)) {
-            System.out.println(number + " it is an Amstrong number");
-        } else {
-            System.out.println(number + " it is not an Amstrong number");
-        }
-    }
 
     public static boolean isAmstrong(int number) {
         int originalNumber = number;
@@ -25,4 +17,14 @@ public class Amstrong {
 
         return originalNumber == sum;
     } 
-}
+
+        
+    public static void main(String[] args) {
+        int number = 371;
+        if (isAmstrong(number)) {
+            System.out.println(number + " it is an Amstrong number");
+        } else {
+            System.out.println(number + " it is not an Amstrong number");
+        }
+    }
+};

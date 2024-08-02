@@ -5,3 +5,9 @@ Se quiere desarrollar un programa que determine si un número es un número de A
 
 Por ejemplo, el número 371 es un número que cumple dicha característica ya que tiene tres cifras y:
 371 = 33 + 73 + 13 = 27 + 343 + 1 = 371
+
+![alt text](image.png)
+
+
+## Diagrama de clases
+
